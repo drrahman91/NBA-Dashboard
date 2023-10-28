@@ -1,1 +1,3 @@
 # NBA-Dashboard
+
+updated readme
